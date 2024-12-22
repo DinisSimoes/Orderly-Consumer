@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Orderly.Consumer": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
