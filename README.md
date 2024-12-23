@@ -1,6 +1,6 @@
 # Orderly-Consumer
 
-Job para consumir mensagens do kafka e escrever no mongoDB
+Job simples para consumir mensagens do kafka e escrever no mongoDB. Ele tem de estar a correr para "escutar" as mensagens no topico do kafka. Se ele não estiver a executar ao fazer a escrita no SQL não escreve no mongoDB para consulta.
 
 ## Projetos Relacionados
 
